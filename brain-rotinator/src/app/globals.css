@@ -41,9 +41,9 @@ body {
 @layer base {
   .background-container {
     height: 200vh;
-    background-image: url(../../public/BRAINbanner-white_processed.png);
+    background-image: url(../../public/temp-banner.jpg);
     background-attachment: fixed;
-    background-size: 830px;
+    background-size: 1000px;
     background-position: center;
   }
 }
